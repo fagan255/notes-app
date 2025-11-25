@@ -2,8 +2,8 @@
 
 ## 👥 Anggota Kelompok
 
-1. Candra Qoriul Umma
-2. Nama Siswa 2
+1. Fagan Bisma Arkananta
+2. Muhammad Fandy Fadhillah
 
 ## 📝 Deskripsi
 
@@ -30,3 +30,4 @@ Aplikasi catatan sederhana berbasis Flutter yang bisa menambah, menampilkan, dan
    flutter pub get
    flutter run -d chrome
    ```
+
